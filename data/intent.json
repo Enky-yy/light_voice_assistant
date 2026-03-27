@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "tag": "time",
+      "patterns": [
+        "what time is it",
+        "tell me the time",
+        "current time",
+        "time now"
+      ]
+    },
+    {
+      "tag": "youtube",
+      "patterns": [
+        "open youtube",
+        "start youtube",
+        "play youtube"
+      ]
+    },
+    {
+      "tag": "google",
+      "patterns": [
+        "search google",
+        "google something",
+        "look this up"
+      ]
+    },
+    {
+      "tag": "vscode",
+      "patterns": [
+        "open vscode",
+        "start code editor",
+        "launch code"
+      ]
+    }
+  ]
+}

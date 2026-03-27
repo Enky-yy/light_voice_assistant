@@ -1,0 +1,12 @@
+pvporcupine
+pyaudio
+numpy
+tensorflow
+scikit-learn
+pickle-mixin
+openai-whisper
+pyttsx3
+webrtcvad
+sounddevice 
+faster-whisper
+openwakeword
