@@ -1,1 +1,0 @@
-stream, samplerate = start_stream()
